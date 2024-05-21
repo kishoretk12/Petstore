@@ -15,7 +15,7 @@
       community.docker.docker_login:
         registry_url: https://index.docker.io/v1/
         username: kishoretk12
-        password: dckr_pat_gd7483vaV0-ONkVnix-8-6UwGKw
+        password: Kingkishore@12
     - name: Push image
       command: docker push kishoretk12/petstore:latest
     - name: Run container
